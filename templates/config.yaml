@@ -1,3 +1,9 @@
-default:
+base16:
     extension: .config
     output: themes
+    supported-systems: [base16]
+
+base24:
+    extension: .config
+    output: themes
+    supported-systems: [base24]
