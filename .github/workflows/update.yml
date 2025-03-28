@@ -1,8 +1,6 @@
 name: "Update with the latest tinted-theming colorschemes"
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0" # https://crontab.guru/every-week
 
 jobs:
   build-and-commit:

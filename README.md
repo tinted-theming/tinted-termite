@@ -1,5 +1,10 @@
 # tinted-termite
 
+**Deprecated**: tinted-termite and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
 
 A [Tinted Theming](https://github.com/tinted-theming/home). template repository for [Termite].
 
